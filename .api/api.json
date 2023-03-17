@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "petstore",
+      "source": "https://raw.githubusercontent.com/OAI/OpenAPI-Specification/main/examples/v3.0/petstore.json",
+      "integrity": "sha512-efqytu5RCCQrBvAO8yMdsGOILGo7O8ZCpye9f7c2Ovp+9230B5a+gxfDrgfO3zL/iJDV90BPhBqwxSH+X+NUmg==",
+      "installerVersion": "5.0.8"
+    }
+  ]
+}
